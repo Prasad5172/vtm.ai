@@ -8,6 +8,7 @@ import DirectorsSection from "./sections/Directors";
 import FAQSection from "./sections/FAQ";
 import Footer from "./components/Footer";
 
+
 function App() {
   return (
     <>
