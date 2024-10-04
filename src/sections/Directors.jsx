@@ -53,7 +53,7 @@ function DirectorsSection() {
           </h2>
           <span className="font-semibold text-[20px]">Co-Founder & CLO</span>
         </div>
-        <div className="flex flex-col items-center" >
+        {/* <div className="flex flex-col items-center" >
           <img
             data-aos="fade-left"
             className="object-contain w-full h-[409px] rounded-md no-right-click selectDisable"
@@ -65,7 +65,7 @@ function DirectorsSection() {
           </h2>
           <span className="font-semibold text-[20px]">CTO & PhD candidate</span>
           <span className="font-semibold text-[20px]">2<span className="text-base">X</span> Kaggle GrandMaster</span>
-        </div>
+        </div> */}
 
         <div className="flex flex-col items-center" >
           <img
@@ -77,7 +77,7 @@ function DirectorsSection() {
           <h2 className="text-[28px] md:text-[32px] leading-[40px] font-bold mt-[24px]">
             Umair Ullah
           </h2>
-          <span className="font-semibold text-[20px]">Chief Software Officer</span>
+          <span className="font-semibold text-[20px]">CTO</span>
         </div>
         
 
@@ -134,7 +134,6 @@ function DirectorsSection() {
           </h2>
           <span className="font-semibold text-[20px]">Founder & CEO</span>
         </div> */}
-      </div>
       <div className="overflow-x-hidden overflow-y-hidden">
         <div className="flex flex-col items-center" >
             <img
@@ -148,6 +147,7 @@ function DirectorsSection() {
             </h2>
             <span className="font-semibold text-[20px]">Lead AI Engineer</span>
         </div>
+      </div>
       </div>
       
     </div>
